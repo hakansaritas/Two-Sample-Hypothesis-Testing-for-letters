@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: Hakan
-"""
-
-
 def letters_of_songs(list_of_bands=["Rainbow"], num_of_song=2, api_key="", dataset_name="my_dataset"):
     
     """
